@@ -26,7 +26,7 @@ content/Learn Java/JAVA CORE/Основы java (Вводная).md
 
 <span style="color: red;">2. <a class="internal-link" style="color: black;" data-href="Stream">Stream</a></span>
 
-<span style="color: #4b5320;"><a href="content/Learn Java/JAVA CORE/Основы%20java%20(Вводная).md" style="color: #4b5320;">Основы java (<span style="color: #5c1f01;">Вводная</span>)</span>
+<span style="color: #4b5320;"><a href="Learn-Java/JAVA-CORE/Основы-java-(Вводная)" style="color: #4b5320;">Основы java (<span style="color: #5c1f01;">Вводная</span>)</span>
 
 
 <span style="color: #4b5320;"><a class="internal-link" style="color: #4b5320;" data-href="Основы java (Вводная)">Основы java (<span style="color: #5c1f01;">Вводная</span>)</a></span>
