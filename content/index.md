@@ -27,3 +27,7 @@ https://drive.google.com/file/d/13gHE8topC-syL1SqlNhPUf5LPMM4_I70/view?usp=shari
 
 
 ![[really.svg]]
+
+
+
+![[Pasted image 20260201234113.png]]
