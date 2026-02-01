@@ -1,5 +1,5 @@
 ---
-title: Главная Java_tutorial
+title: Java_tutorial
 ---
 # Структура Java core
 
