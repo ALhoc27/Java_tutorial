@@ -1,0 +1,1 @@
+Pasted image 20260201234113.png
