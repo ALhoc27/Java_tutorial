@@ -1,3 +1,15 @@
 @use "./base.scss";
 
 // put your custom CSS here!
+
+
+// Увеличение hover preview
+.popover {
+  max-width: 900px !important;
+  width: 900px !important;
+}
+
+.popover-content {
+  max-height: 70vh;
+  overflow-y: auto;
+}
